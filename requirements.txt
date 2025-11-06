@@ -1,10 +1,5 @@
 flask
 requests
-beautifulsoup4
-sys
-time
-getpass
 pandas
-glob
 selenium
 webdriver_manager
