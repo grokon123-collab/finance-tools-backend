@@ -1,5 +1,9 @@
+# For Flask server (app.py)
 flask
-requests
+gunicorn
+
+# For the crawler (crawler_script.py)
 pandas
 selenium
-webdriver_manager
+webdriver-manager
+openpyxl
